@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>110999938896-1r1tj41h54qc1v3rlckmt6q8cd4ueg0t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.110999938896-1r1tj41h54qc1v3rlckmt6q8cd4ueg0t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>110999938896-jkbb6em44fpsmisikrn5apu4vttmqp8h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfxeXtwC8kWQ8Z5ntwzk1Hi6zCGO29Cis</string>
+	<key>GCM_SENDER_ID</key>
+	<string>110999938896</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.voltsensee</string>
+	<key>PROJECT_ID</key>
+	<string>voltsense-9ff7b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>voltsense-9ff7b.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:110999938896:ios:dc30876b645ac4048e2e55</string>
+</dict>
+</plist>
